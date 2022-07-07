@@ -6,7 +6,8 @@ Major in software engineering, and be interested in Java/Mysql/Python/Uni-App an
 
 ### Hobbies 
 
-Playing video games is my biggest hobby,  
+Playing video games is my biggest hobby
+The following are the games I have been playing recently
 
 ```markdown
 · Genshin Impact
@@ -15,14 +16,16 @@ Playing video games is my biggest hobby,
 · Honor of Kings
 · Phigros
 · ......
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+If you want to play with me, you can get my contact information through my [bilibili] (https://space.bilibili.com/35194559) homepage private message.
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kumozawa/Kumozawa/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+``` 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Kumozawa&show_icons=true&theme=dark&count_private=true)
+
+```
 
 ### Support or Contact
 
